@@ -12,7 +12,6 @@ public:
             result ^= i;
             i++;
         }
-
         return result;
     }
 };
